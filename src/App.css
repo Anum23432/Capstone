@@ -203,11 +203,11 @@ img{
   }
   .wrapper:hover .letter {
   
-          transform: translateY(-100%);
+          transform: translateY(-50%);
   }
   .wrapper:hover .shadow {
           opacity: 0;
-          transform: translateY(100%);
+          transform: translateY(50%);
         }
       }      
 		
